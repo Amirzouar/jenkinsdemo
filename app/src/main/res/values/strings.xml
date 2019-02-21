@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Atelier03</string>
+    <string name="rayon">Rayon</string>
+    <string name="calculer">Calculer</string>
+    <string name="perimetre">Périmetre</string>
+    <string name="surface">Surface</string>
+    <string name="cote">Coté</string>
+    <string name="largeur">Largeur</string>
+    <string name="longeur">Longeur</string>
+
+    <string-array name="tabFrome">
+        <item>rectangle</item>
+        <item>cercle</item>
+        <item>carre</item>
+    </string-array>
+
+</resources>
